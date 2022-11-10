@@ -1,0 +1,21 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+.nav{
+    background-color: lightblue;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 3.75rem;
+    font-size: 1rem;
+    line-height: 1.3rem;
+    padding: 0 1 rem;
+}
+a{
+    color: blue;
+    margin: 1rem;
+    position: relative;
+    padding-right: 1.5rem;
+}
